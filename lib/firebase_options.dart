@@ -47,7 +47,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA455inva2nQUhRttPLJPOdY945lfAe8dw',
+    apiKey: 'AIza       SyA455inva2nQUhRttPLJPOdY945lfAe8dw',
     appId: '1:909106559073:web:87a07630dfbdac340f9220',
     messagingSenderId: '909106559073',
     projectId: 'quiz-app-with-firebase-3d3d8',
